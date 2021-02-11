@@ -4,6 +4,8 @@
 *.iml
 *.ipr
 
-.target
+*.class
+*.jar
+target
 !**/src/main/**/target/
 !**/src/test/**/target/
