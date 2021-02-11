@@ -4,6 +4,6 @@
 *.iml
 *.ipr
 
-!**/target/
+.target
 !**/src/main/**/target/
 !**/src/test/**/target/
